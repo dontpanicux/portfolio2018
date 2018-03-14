@@ -1,0 +1,29 @@
+/* From Gary Vee's page */
+
+.sp-circle {
+    display: inline-block;
+    margin: 0;
+    padding: 12px 10px;
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    background: #000;
+    font-size: 23px;
+    line-height: 23px;
+    color: #fff;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.sp-circle-invert {
+    background: #fff;
+    color: #000;
+}
+
+.sp-circle-lg {
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    line-height: 50px;
+    padding: 25px;
+}
